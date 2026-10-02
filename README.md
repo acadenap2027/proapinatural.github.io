@@ -17,10 +17,18 @@ Run `node server.mjs` and open http://localhost:4173.
 - The bag prepares a WhatsApp inquiry with products, quantities and total. Visitors review and send it themselves; the website does not submit orders or take payment.
 - Confirm availability, delivery costs and payment arrangements directly before accepting an order.
 
-## GitHub Pages
+## Cloudflare Pages
 
-The included workflow publishes the `dist` directory on pushes to `main`. In the repository Settings → Pages, select GitHub Actions as the source.
+Production hosting is Cloudflare Pages, project `proapinatural`, in the owner's Cloudflare account. The site was migrated from GitHub Pages on October 2, 2026.
 
-Custom domain: `proapinatural.com`, configured through GitHub Pages settings. Cloudflare DNS must point the apex to GitHub Pages and `www` to `acadenap2027.github.io`. Enable HTTPS enforcement after GitHub provisions the certificate. This site deploys through Actions, so a CNAME file is not required.
+- Production: https://proapinatural.com/
+- Alternate domain: https://www.proapinatural.com/
+- Pages hostname: https://proapinatural.pages.dev/
+- Both custom domains use proxied CNAME records pointing to `proapinatural.pages.dev`.
+- This is a **Direct Upload** project. GitHub pushes save the source but do not update Cloudflare automatically.
+- To publish: package the contents of `dist` at the ZIP root with `Compress-Archive -Path 'dist/*' -DestinationPath 'proapinatural-cloudflare.zip' -Force`, then upload it as a production deployment in the Cloudflare Pages project. Do not include the parent `dist` folder or the source uploads.
+- Verify the product catalog and HTTPS on both custom domains after deployment.
+
+The GitHub Pages workflow remains available as a manually triggered fallback. Automatic GitHub Pages deployment is disabled because production now runs on Cloudflare Pages.
 
 No secrets or credentials belong in this repository. The website uses Google Fonts with local font fallbacks. Product imagery comes from the supplied `images` folder.
