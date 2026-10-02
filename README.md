@@ -29,6 +29,6 @@ Production hosting is Cloudflare Pages, project `proapinatural`, in the owner's 
 - To publish: package the contents of `dist` at the ZIP root with `Compress-Archive -Path 'dist/*' -DestinationPath 'proapinatural-cloudflare.zip' -Force`, then upload it as a production deployment in the Cloudflare Pages project. Do not include the parent `dist` folder or the source uploads.
 - Verify the product catalog and HTTPS on both custom domains after deployment.
 
-The GitHub Pages workflow remains available as a manually triggered fallback. Automatic GitHub Pages deployment is disabled because production now runs on Cloudflare Pages.
+The existing GitHub Pages workflow is retained as a fallback. GitHub deployments do not change the Cloudflare-hosted production site.
 
 No secrets or credentials belong in this repository. The website uses Google Fonts with local font fallbacks. Product imagery comes from the supplied `images` folder.
