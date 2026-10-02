@@ -1,0 +1,7 @@
+# Proapinatural identity
+
+The transparent PNG emblem is used with a live-text wordmark in the website header and footer, and as the browser icon. The bee represents honey and hive products; the botanical wings connect it to natural personal care. The footer places it on a cream disk for contrast.
+
+Created with the built-in image generation tool. Final generation prompt:
+
+> Use case: logo-brand. Create a single exquisite original brand emblem for Proapinatural, a Colombian honey, hive products and natural personal care brand. Asset type: production website logo symbol, no text. A minimal elegant bee with two wings shaped like botanical leaves, subtly balanced within an open circular organic silhouette. Integrate bee and leaf into one cohesive memorable mark; carefully proportioned, symmetrical enough to be recognizable at small sizes, sophisticated boutique identity. Flat vector-like solid shapes, crisp clean edges, strong simple silhouette with generous negative space. Forest green #153b2c and warm honey gold #edba56 only. Main bee body gold, leaf wings forest green. Transparent background, actual alpha transparency. Center emblem large on square canvas with tight but comfortable margin. No words, no letters, no mockup, no 3D, no gradients, no shadow, no texture, no fine hairlines, no ornate wreath, no extra concepts or variants. The mark must look professionally drawn, calm, premium and distinctive.
