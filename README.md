@@ -20,4 +20,6 @@ Run `node server.mjs` and open http://localhost:4173.
 
 The included workflow publishes the `dist` directory on pushes to `main`. In the repository Settings → Pages, select GitHub Actions as the source.
 
+Custom domain: `proapinatural.com`, configured through GitHub Pages settings. Cloudflare DNS must point the apex to GitHub Pages and `www` to `acadenap2027.github.io`. Enable HTTPS enforcement after GitHub provisions the certificate. This site deploys through Actions, so a CNAME file is not required.
+
 No secrets or credentials belong in this repository. The website uses Google Fonts with local font fallbacks. Product imagery comes from the supplied `images` folder.
