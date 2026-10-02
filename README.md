@@ -13,7 +13,7 @@ Run `node server.mjs` and open http://localhost:4173.
 - Run `node update-catalog.mjs` after updating named uploads to synchronize catalog data and Spanish translations. Decorative candles have no supplied size, so none is invented. The two unnamed WhatsApp uploads are not catalog products.
 - Confirm ingredients, usage directions and availability before launch.
 - WhatsApp and phone links use +57 324 251 5190 from the supplied promotional flyer.
-- Store address: Calle 27 #32 46, Bogotá, Colombia, with a Google Maps search link in the contact section.
+- Store address: Carrera 22 #17-73 sur, Bogotá, Cundinamarca, Colombia, with a Google Maps search link in the contact section.
 - The bag prepares a WhatsApp inquiry with products, quantities and total. Visitors review and send it themselves; the website does not submit orders or take payment.
 - Confirm availability, delivery costs and payment arrangements directly before accepting an order.
 
