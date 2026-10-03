@@ -8,9 +8,9 @@ Run `node server.mjs` and open http://localhost:4173.
 
 ## Launch checklist
 
-- The catalog uses the supplied product photos in `dist/assets/products/` (29 products, including three pollen sizes and decorative candles).
-- Product names, sizes and COP prices follow the named uploads. Prices appear in the catalog, details, local bag and WhatsApp draft, including quantity totals. Hand cream is COP 30,000 and decorative candles COP 5,000, confirmed by the owner.
-- Run `node update-catalog.mjs` after updating named uploads to synchronize catalog data and Spanish translations. Decorative candles have no supplied size, so none is invented. The two unnamed WhatsApp uploads are not catalog products.
+- The catalog uses the supplied product photos in `dist/assets/products/` (33 products, including three pollen sizes, two decorative honey jars, and three candle sizes).
+- Product names, sizes and COP prices follow the named uploads. Prices appear in the catalog, details, local bag and WhatsApp draft, including quantity totals. Hand cream is COP 30,000 and candles small COP 7,000, medium COP 12,000, and large COP 22,000, confirmed by the owner. Decorative honey jars are 30 g / COP 10,000 and 130 g / COP 28,000.
+- Run `node update-catalog.mjs` after updating named uploads to synchronize catalog data and Spanish translations. Candles use the supplied relative sizes (small, medium, large); no physical measurements are invented. Decorative honey names, weights, and prices follow the renamed uploads.
 - Confirm ingredients, usage directions and availability before launch.
 - WhatsApp and phone links use +57 324 251 5190 from the supplied promotional flyer.
 - Store address: Carrera 22 #17-73 sur, Bogotá, Cundinamarca, Colombia, with the owner-supplied Google Maps business listing linked from the address in the contact section.

@@ -364,17 +364,69 @@ const products=[
     "description": "Propolis · 300 g. See the product packaging for ingredients and directions."
   },
   {
-    "id": "decorative-candles",
-    "name": "Decorative candles",
+    "id": "decorative-honey-small",
+    "name": "Decorative honey · 30 g",
     "category": "home",
-    "price": 5000,
+    "price": 10000,
     "currency": "COP",
-    "size": "",
+    "size": "30 g",
     "tag": "FOR YOUR HOME",
-    "subtitle": "A little warmth for your home.",
+    "subtitle": "A little honey gift to share.",
+    "image": "assets/products/decorative-honey-small-studio.png",
+    "sourceFile": "MIEL DECORATIVA 30 GRS $10000.jpeg",
+    "description": "Decorative honey · 30 g. See the product packaging for ingredients and directions."
+  },
+  {
+    "id": "decorative-honey-large",
+    "name": "Decorated honey · 130 g",
+    "category": "home",
+    "price": 28000,
+    "currency": "COP",
+    "size": "130 g",
+    "tag": "FOR YOUR HOME",
+    "subtitle": "A little honey gift to share.",
+    "image": "assets/products/decorative-honey-large-studio.png",
+    "sourceFile": "MIEL DECORADA 130 GRS $28000.jpeg",
+    "description": "Decorated honey · 130 g. See the product packaging for ingredients and directions."
+  },
+  {
+    "id": "decorative-candles",
+    "name": "Decorative candle · Small",
+    "category": "home",
+    "price": 7000,
+    "currency": "COP",
+    "size": "Pequeña",
+    "tag": "FOR YOUR HOME",
+    "subtitle": "Three sizes to choose from. Price per candle.",
     "image": "assets/products/decorative-candles-studio.png",
     "sourceFile": "Velas decorativas.jpeg",
-    "description": "Decorative candles. See the product packaging for ingredients and directions."
+    "description": "Decorative candle · Small. Available in small (COP 7,000), medium (COP 12,000) and large (COP 22,000). The price is for one candle in the selected size."
+  },
+  {
+    "id": "decorative-candles-medium",
+    "name": "Decorative candle · Medium",
+    "category": "home",
+    "price": 12000,
+    "currency": "COP",
+    "size": "Mediana",
+    "tag": "FOR YOUR HOME",
+    "subtitle": "Three sizes to choose from. Price per candle.",
+    "image": "assets/products/decorative-candles-medium-studio.png",
+    "sourceFile": "Velas decorativas.jpeg",
+    "description": "Decorative candle · Medium. Available in small (COP 7,000), medium (COP 12,000) and large (COP 22,000). The price is for one candle in the selected size."
+  },
+  {
+    "id": "decorative-candles-large",
+    "name": "Decorative candle · Large",
+    "category": "home",
+    "price": 22000,
+    "currency": "COP",
+    "size": "Grande",
+    "tag": "FOR YOUR HOME",
+    "subtitle": "Three sizes to choose from. Price per candle.",
+    "image": "assets/products/decorative-candles-large-studio.png",
+    "sourceFile": "Velas decorativas.jpeg",
+    "description": "Decorative candle · Large. Available in small (COP 7,000), medium (COP 12,000) and large (COP 22,000). The price is for one candle in the selected size."
   }
 ];
 function formatPrice(amount) { return "COP " + new Intl.NumberFormat(language === "es" ? "es-CO" : "en-US", {maximumFractionDigits:0}).format(amount); }
