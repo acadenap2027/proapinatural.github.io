@@ -8,7 +8,7 @@ const products=[
     "size": "1.000 g",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/honey-100.jpeg",
+    "image": "assets/products/honey-100-sage.png",
     "sourceFile": "BOTELLA MIEL 1000 GRS $ 48.000.jpeg",
     "description": "Honey bottle · 1,000 g. See the product packaging for ingredients and directions."
   },
@@ -21,7 +21,7 @@ const products=[
     "size": "500 g",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/honey-500.jpeg",
+    "image": "assets/products/honey-500-sage.png",
     "sourceFile": "MEDIA DE MIEL 500 GRS $30.000.jpeg",
     "description": "Honey bottle · 500 g. See the product packaging for ingredients and directions."
   },
@@ -34,7 +34,7 @@ const products=[
     "size": "150 g",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/honey-pouch-small.jpeg",
+    "image": "assets/products/honey-pouch-small-sage.png",
     "sourceFile": "MIEL DOY PACK 150 GRS $ 16.000.jpeg",
     "description": "Honey pouch · 150 g. See the product packaging for ingredients and directions."
   },
@@ -47,7 +47,7 @@ const products=[
     "size": "2,8 kg",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/honey-family.jpeg",
+    "image": "assets/products/honey-family-sage.png",
     "sourceFile": "GARRAFA DE MIEL  2.8 KGS $ 127.000.jpeg",
     "description": "Honey jug · 2.8 kg. See the product packaging for ingredients and directions."
   },
@@ -60,7 +60,7 @@ const products=[
     "size": "300 g",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/honey-jar-small.jpeg",
+    "image": "assets/products/honey-jar-small-sage.png",
     "sourceFile": "MIEL FRASCO 300 GRS $ 25.000.jpeg",
     "description": "Honey jar · 300 g. See the product packaging for ingredients and directions."
   },
@@ -73,7 +73,7 @@ const products=[
     "size": "625 g",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/honey-jar-medium.jpeg",
+    "image": "assets/products/honey-jar-medium-sage.png",
     "sourceFile": "MIEL FRASCO  625 GRS 38.000.jpeg",
     "description": "Honey jar · 625 g. See the product packaging for ingredients and directions."
   },
@@ -86,7 +86,7 @@ const products=[
     "size": "1.350 g",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/honey-jar-large.jpeg",
+    "image": "assets/products/honey-jar-large-sage.png",
     "sourceFile": "FRASCO MIEL 1.350GRS $ 69.000.jpeg",
     "description": "Honey jar · 1,350 g. See the product packaging for ingredients and directions."
   },
@@ -99,7 +99,7 @@ const products=[
     "size": "700 g",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/honey-pouch-700.jpeg",
+    "image": "assets/products/honey-pouch-700-sage.png",
     "sourceFile": "MIEL DOY PACK 700 GRS $ 39.000.jpeg",
     "description": "Honey pouch · 700 g. See the product packaging for ingredients and directions."
   },
@@ -112,7 +112,7 @@ const products=[
     "size": "30 cc",
     "tag": "DAILY CARE",
     "subtitle": "Explore our personal care collection.",
-    "image": "assets/products/propolis.jpeg",
+    "image": "assets/products/propolis-sage.png",
     "sourceFile": "EXRACTO DE PROPOLEO 30 CC $ 29.000.jpeg",
     "description": "Propolis extract · 30 cc. See the product packaging for ingredients and directions."
   },
@@ -125,7 +125,7 @@ const products=[
     "size": "1.000 g",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/pollen-large.jpeg",
+    "image": "assets/products/pollen-large-sage.png",
     "sourceFile": "POLEN NATURAL 1.000 GRS $ 74.000.jpeg",
     "description": "Natural pollen · 1,000 g. See the product packaging for ingredients and directions."
   },
@@ -138,7 +138,7 @@ const products=[
     "size": "125 g",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/pollen-small.jpeg",
+    "image": "assets/products/pollen-small-sage.png",
     "sourceFile": "POLEN NATURAL  125 GRS $ 18.000.jpeg",
     "description": "Natural pollen · 125 g. See the product packaging for ingredients and directions."
   },
@@ -151,7 +151,7 @@ const products=[
     "size": "250 g",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/pollen-medium.jpeg",
+    "image": "assets/products/pollen-medium-sage.png",
     "sourceFile": "POLEN NATURAL  250 GRS $ 28.000.jpeg",
     "description": "Natural pollen · 250 g. See the product packaging for ingredients and directions."
   },
@@ -164,7 +164,7 @@ const products=[
     "size": "",
     "tag": "DAILY CARE",
     "subtitle": "Explore our personal care collection.",
-    "image": "assets/products/colirio.jpeg",
+    "image": "assets/products/colirio-sage.png",
     "sourceFile": "COLIRIO DE MIEL $17.000.jpeg",
     "description": "Honey eye drops. See the product packaging for ingredients and directions."
   },
@@ -177,7 +177,7 @@ const products=[
     "size": "70 g",
     "tag": "DAILY CARE",
     "subtitle": "Explore our personal care collection.",
-    "image": "assets/products/floramiel-deodorant.jpeg",
+    "image": "assets/products/floramiel-deodorant-sage.png",
     "sourceFile": "CREMA FACIAL JALEA  70 GRS $ 40.000.jpeg",
     "description": "Royal jelly facial cream · 70 g. See the product packaging for ingredients and directions."
   },
@@ -190,7 +190,7 @@ const products=[
     "size": "90 g",
     "tag": "DAILY CARE",
     "subtitle": "Explore our personal care collection.",
-    "image": "assets/products/floramiel-soap.jpeg",
+    "image": "assets/products/floramiel-soap-sage.png",
     "sourceFile": "JABON DE MIEL 90GRS $ 9.000.jpeg",
     "description": "Honey soap · 90 g. See the product packaging for ingredients and directions."
   },
@@ -203,7 +203,7 @@ const products=[
     "size": "500 ml",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/vinamax.jpeg",
+    "image": "assets/products/vinamax-sage.png",
     "sourceFile": "VINAGRE DE MANZANA  500 ML $ 28.000.jpeg",
     "description": "Apple vinegar · 500 ml. See the product packaging for ingredients and directions."
   },
@@ -216,7 +216,7 @@ const products=[
     "size": "240 ml",
     "tag": "DAILY CARE",
     "subtitle": "Explore our personal care collection.",
-    "image": "assets/products/apinotox.jpeg",
+    "image": "assets/products/apinotox-sage.png",
     "sourceFile": "APINOTOX 240 ML $ 40.000.jpeg",
     "description": "Apinotox · 240 ml. See the product packaging for ingredients and directions."
   },
@@ -229,7 +229,7 @@ const products=[
     "size": "70 g",
     "tag": "DAILY CARE",
     "subtitle": "Explore our personal care collection.",
-    "image": "assets/products/floramiel-cream.jpeg",
+    "image": "assets/products/floramiel-cream-sage.png",
     "sourceFile": "CREMA FACIAL PROPOLEO  70GRS $ 40.000.jpeg",
     "description": "Propolis facial cream · 70 g. See the product packaging for ingredients and directions."
   },
@@ -242,7 +242,7 @@ const products=[
     "size": "10 unidades",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/energ-abeja.jpeg",
+    "image": "assets/products/energ-abeja-sage.png",
     "sourceFile": "EMBRIOABEJA  10 UNS $ 95.000.jpeg",
     "description": "Embrioabeja · 10 units. See the product packaging for ingredients and directions."
   },
@@ -255,7 +255,7 @@ const products=[
     "size": "120 g",
     "tag": "DAILY CARE",
     "subtitle": "Explore our personal care collection.",
-    "image": "assets/products/floramiel-lotion.jpeg",
+    "image": "assets/products/floramiel-lotion-sage.png",
     "sourceFile": "CREMA PARA MANOS  120 GRS $30.000.jpeg",
     "description": "Hand cream · 120 g. See the product packaging for ingredients and directions."
   },
@@ -268,7 +268,7 @@ const products=[
     "size": "20 g",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/royal-jelly.jpeg",
+    "image": "assets/products/royal-jelly-sage.png",
     "sourceFile": "JALEA REAL  20 GRS $ 120.000.jpeg",
     "description": "Royal jelly · 20 g. See the product packaging for ingredients and directions."
   },
@@ -281,7 +281,7 @@ const products=[
     "size": "250 ml",
     "tag": "DAILY CARE",
     "subtitle": "Explore our personal care collection.",
-    "image": "assets/products/floramiel-shampoo.jpeg",
+    "image": "assets/products/floramiel-shampoo-sage.png",
     "sourceFile": "SHAMPOO DE MIEL  250 ML $ 35.000.jpeg",
     "description": "Honey shampoo · 250 ml. See the product packaging for ingredients and directions."
   },
@@ -294,7 +294,7 @@ const products=[
     "size": "60 g",
     "tag": "DAILY CARE",
     "subtitle": "Explore our personal care collection.",
-    "image": "assets/products/beetoxin.jpeg",
+    "image": "assets/products/beetoxin-sage.png",
     "sourceFile": "GEL CON APITOXINA 60 GRS $ 40.000.jpeg",
     "description": "Apitoxin gel · 60 g. See the product packaging for ingredients and directions."
   },
@@ -307,7 +307,7 @@ const products=[
     "size": "1.050 g",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/espinal-honey-glass.jpeg",
+    "image": "assets/products/espinal-honey-glass-sage.png",
     "sourceFile": "BOTELLA DE MIEL  1050 GRS $ 55.000.jpeg",
     "description": "Honey bottle · 1,050 g. See the product packaging for ingredients and directions."
   },
@@ -320,7 +320,7 @@ const products=[
     "size": "490 ml",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/apple-vinegar-studio.png",
+    "image": "assets/products/apple-vinegar-sage.png",
     "sourceFile": "VINAGRE DE SIDRA DE MANZANA CON MADRE 490 ML $32.000.jpeg",
     "description": "Apple cider vinegar with the mother · 490 ml. See the product packaging for ingredients and directions."
   },
@@ -333,7 +333,7 @@ const products=[
     "size": "320 g",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/espinal-propolis.jpeg",
+    "image": "assets/products/espinal-propolis-sage.png",
     "sourceFile": "PROPOLEO COMPUESTO  320 GRS $ 32.000.jpeg",
     "description": "Compound propolis · 320 g. See the product packaging for ingredients and directions."
   },
@@ -346,7 +346,7 @@ const products=[
     "size": "355 g",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/espinal-honey.jpeg",
+    "image": "assets/products/espinal-honey-sage.png",
     "sourceFile": "MIEL  355 GRS $ 25.000.jpeg",
     "description": "Honey · 355 g. See the product packaging for ingredients and directions."
   },
@@ -359,7 +359,7 @@ const products=[
     "size": "300 g",
     "tag": "THE PANTRY",
     "subtitle": "For your pantry and daily rituals.",
-    "image": "assets/products/honey-propolis.jpeg",
+    "image": "assets/products/honey-propolis-sage.png",
     "sourceFile": "PROPOLEO  300 GRS $29.000.jpeg",
     "description": "Propolis · 300 g. See the product packaging for ingredients and directions."
   },
@@ -372,7 +372,7 @@ const products=[
     "size": "30 g",
     "tag": "FOR YOUR HOME",
     "subtitle": "A little honey gift to share.",
-    "image": "assets/products/decorative-honey-small-studio.png",
+    "image": "assets/products/decorative-honey-small-sage.png",
     "sourceFile": "MIEL DECORATIVA 30 GRS $10000.jpeg",
     "description": "Decorative honey · 30 g. See the product packaging for ingredients and directions."
   },
@@ -385,7 +385,7 @@ const products=[
     "size": "130 g",
     "tag": "FOR YOUR HOME",
     "subtitle": "A little honey gift to share.",
-    "image": "assets/products/decorative-honey-large-studio.png",
+    "image": "assets/products/decorative-honey-large-sage.png",
     "sourceFile": "MIEL DECORADA 130 GRS $28000.jpeg",
     "description": "Decorated honey · 130 g. See the product packaging for ingredients and directions."
   },
@@ -398,7 +398,7 @@ const products=[
     "size": "Pequeña",
     "tag": "FOR YOUR HOME",
     "subtitle": "Three sizes to choose from. Price per candle.",
-    "image": "assets/products/decorative-candles-studio.png",
+    "image": "assets/products/decorative-candles-sage.png",
     "sourceFile": "Velas decorativas.jpeg",
     "description": "Decorative candle · Small. Available in small (COP 7,000), medium (COP 12,000) and large (COP 22,000). The price is for one candle in the selected size."
   },
@@ -411,7 +411,7 @@ const products=[
     "size": "Mediana",
     "tag": "FOR YOUR HOME",
     "subtitle": "Three sizes to choose from. Price per candle.",
-    "image": "assets/products/decorative-candles-medium-studio.png",
+    "image": "assets/products/decorative-candles-medium-sage.png",
     "sourceFile": "Velas decorativas.jpeg",
     "description": "Decorative candle · Medium. Available in small (COP 7,000), medium (COP 12,000) and large (COP 22,000). The price is for one candle in the selected size."
   },
@@ -424,7 +424,7 @@ const products=[
     "size": "Grande",
     "tag": "FOR YOUR HOME",
     "subtitle": "Three sizes to choose from. Price per candle.",
-    "image": "assets/products/decorative-candles-large-studio.png",
+    "image": "assets/products/decorative-candles-large-sage.png",
     "sourceFile": "Velas decorativas.jpeg",
     "description": "Decorative candle · Large. Available in small (COP 7,000), medium (COP 12,000) and large (COP 22,000). The price is for one candle in the selected size."
   }

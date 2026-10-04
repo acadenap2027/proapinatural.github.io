@@ -55,7 +55,8 @@ const products = entries.map(([id, prefix, es, en, size, category, confirmedPric
   const nameEs = es + (size ? ` · ${size}` : '');
   const imageFile = `${id}.jpeg`;
   fs.copyFileSync(path.join(root, 'images', sourceFile), path.join(root, 'dist/assets/products', imageFile));
-  const edited = `${id}-studio.png`;
+  const refreshed = `${id}-sage.png`;
+  const edited = fs.existsSync(path.join(root, 'dist/assets/products', refreshed)) ? refreshed : `${id}-studio.png`;
   const image = `assets/products/${fs.existsSync(path.join(root, 'dist/assets/products', edited)) ? edited : imageFile}`;
   const tag = category === 'pantry' ? 'THE PANTRY' : category === 'home' ? 'FOR YOUR HOME' : 'DAILY CARE';
   const subtitle = category === 'pantry' ? 'For your pantry and daily rituals.' : category === 'home' ? 'A little warmth for your home.' : 'Explore our personal care collection.';
